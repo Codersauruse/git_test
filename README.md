@@ -1,3 +1,3 @@
 # git_test
-My another git repo
-Hello Odin
+This is  git repository for testing purposes.
+
